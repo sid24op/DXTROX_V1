@@ -10,7 +10,24 @@
 - 📍From mannarkkad,palakkad,Kerala,🇮🇳
 - 🏫Students
 
+<div align="center">
+  <img border-radius: 15px src="https://usaupload.com/5eyv/20211030_201351.jpg" width="200"  height="200"/>
+  <p align="center">
+<a href="#"><img title="DX_AMAL0.1" src="https://img.shields.io/badge/DX_AMAL0.1-darkgreen?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+  <p align="center">
+<a href="https://github.com/cyberluiz0"><img title="Author" src="https://img.shields.io/badge/Author-Cyber_Luiz/DX_AMAL0.1?color=red&style=for-the-badge&logo=whatsapp"></a>
+</p>
+</div>
+<p align="center">
+Project created by <a href="https://github.com/cyberluiz0">Cyber luiz</a> to make it public
+    <br>
+       | © |
+        Reserved |
+    <br> 
+</p>
 
+----
 ////////////////////////////////////////////////
     
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amal-dx&repo=DXTROX_V1&theme=nightowl)](https://github.com/cyberluiz0/DXTROX_V1)
