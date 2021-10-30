@@ -11,7 +11,7 @@
 - 🏫Students
 
 <div align="center">
-  <img border-radius: 15px src="https://www.linkpicture.com/view.php?img=LPic617d5d4d18e6b710829711" width="200"  height="200"/>
+  <img border-radius: 15px src="https://www.linkpicture.com/q/20211030_201351.jpg" width="200"  height="200"/>
   <p align="center">
 <a href="#"><img title="DX_AMAL0.1" src="https://img.shields.io/badge/DX_AMAL0.1-darkgreen?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
