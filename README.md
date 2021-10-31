@@ -37,7 +37,7 @@ If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Te
 bash <(curl -L https://tinyurl.com/krzpy3rc)
 ``` 
   
-### CL AMAL
+### DX AMAL 0.1
 
 
 ### ⚠️ Warning! 
@@ -49,12 +49,8 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ```
 
 ## Developers
-<div align="center">
-    
-  [![DXTROX](https://github.com/cyberluiz0/DXTROX_V1)
-----|----
-[DXTROX](CL AMAL - cyber luiz
-  </div>
+  MASTER LUIZ SIR(https://github.com/cyberluiz0)
+  
 
 
   
