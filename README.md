@@ -5,7 +5,7 @@
 
 ## 📢Introduce myself
 
-- 🙂I'm  cyber luiz PEOPLE CALL ME CYBER LUIZ
+- 🙂I'm AMAL PEOPLE CALL ME CYBER LUIZ
 - 🚩I'm a beginner in this field
 - 📍From mannarkkad,palakkad,Kerala,🇮🇳
 - 🏫Students
