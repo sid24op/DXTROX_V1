@@ -29,7 +29,7 @@ Project created by <a href="https://github.com/cyberluiz0">Cyber luiz</a> to mak
 
 ----
     
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CYBER LUIZ MODS LUIZ-dx&repo=CYBER LUIZ MODS &theme=nightowl)](https://github.com/cyberluiz0/CYBER LUIZ MODS )
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CYBERLUIZMODSLUIZ-dx&repo=CYBER LUIZ MODS &theme=nightowl)](https://github.com/cyberluiz0/CYBERLUIZMODS )
   </div>
     
 ## Setup
@@ -39,7 +39,7 @@ Project created by <a href="https://github.com/cyberluiz0">Cyber luiz</a> to mak
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@terror-boy/DXTROXV1?v=1)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CYBER LUIZ MODS LUIZ-dx/CYBER LUIZ MODS )
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CYBER LUIZMODSLUIZ-dx/CYBERLUIZMODS )
      </div>
 <br>
 <br >
