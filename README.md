@@ -5,7 +5,7 @@
 
 ## 📢Introduce myself
 
-- 🙂I'm AMAL PEOPLE CALL ME CYBER LUIZ
+- 🙂I'm  cyber luiz PEOPLE CALL ME CYBER LUIZ
 - 🚩I'm a beginner in this field
 - 📍From mannarkkad,palakkad,Kerala,🇮🇳
 - 🏫Students
@@ -29,8 +29,7 @@ Project created by <a href="https://github.com/cyberluiz0">Cyber luiz</a> to mak
 
 ----
     
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amal-dx&repo=DXTROX_V1&theme=nightowl)](https://github.com/cyberluiz0/DXTROX_V1)
-  </div>
+  
     
 ## Setup
 <div align="center">
@@ -39,7 +38,7 @@ Project created by <a href="https://github.com/cyberluiz0">Cyber luiz</a> to mak
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@terror-boy/DXTROXV1?v=1)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/amal-dx/DXTROX_V1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cyberluiz0/DXTROX_V1)
      </div>
 <br>
 <br >
