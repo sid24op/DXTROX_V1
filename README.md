@@ -36,7 +36,7 @@ Project created by <a href="https://github.com/cyberluiz0">Cyber luiz</a> to mak
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@terror-boy/DXTROXV1?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@x-LL)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cyberluiz0/DXTROX_V1)
      </div>
