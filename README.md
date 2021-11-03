@@ -11,7 +11,7 @@
 - 🏫Students
 
 <div align="center">
-  <img border-radius: 15px src="https://www.linkpicture.com/q/DARKOWLBOT.jpg" width="800"  height="400"/>
+  <img border-radius: 15px src="https://www.linkpicture.com/q/DARKOWLBOT.jpg" width="800"  height="300"/>
   <p align="center">
 <a href="https://github.com/cyberluiz0"><img title="CYBER LUIZ " src="https://img.shields.io/badge/CYBER LUIZ -darkgreen?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
