@@ -1,4 +1,4 @@
-build:
+build: /cyber_luiz/v1
   docker:
       worker: /julie/Dockerfile
 run:
