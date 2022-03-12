@@ -38,7 +38,7 @@ Project created by <a href="https://github.com/cyberluiz0">Cyber luiz</a> to mak
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@x-LL)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cyberluiz0/DXTROX_V1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sid24op/DXTROX_V1)
      </div>
 <br>
 <br >
